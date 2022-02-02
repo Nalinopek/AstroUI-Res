@@ -1,9 +1,9 @@
 [Variables]
 
+NewVersion=0.2
 
-UpdateAstroLinkDownload= https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/AstroVersions/AstroUI_#NewVersion#.rmskin
+UpdateAstroLinkDownload= https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Versions/AstroUI_#NewVersion#.rmskin
 
-NewVersion= --
 
 ;=============
 ;Changes
