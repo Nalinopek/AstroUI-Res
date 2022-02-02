@@ -1,8 +1,10 @@
 [Variables]
 
-NewVersion=0.2
+NewVersion=0.3
 
-UpdateAstroLinkDownload= https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Versions/AstroUI_#NewVersion#.rmskin
+UpdateAstroLinkDownload=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Versions/AstroUI_#NewVersion#.rmskin
+
+UpdateAvatable=1
 
 
 ;=============
@@ -21,4 +23,4 @@ URL=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/VarsWeb/AstroVe
 Debug=2
 Debug2File=#ROOTCONFIGPATH#Addons\Updater\Updater\Vars\Check.inc
 DynamicVariables=1
-UpdateDivider=-1
+UpdateDivider= 1
