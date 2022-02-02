@@ -1,24 +1,24 @@
 [Variables]
 
-;==================\
-; Update Info
-;===/
 
-CoreVersion=0.2
+UpdateAstroLinkDownload= https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/AstroVersions/AstroUI_#NewVersion#.rmskin
 
-Changes3=New Skin "Volume Level".
-Changes4=A new Minimal Design. Redesign of Start Screen
+NewVersion= --
 
-;==================\
-; Function
-;===/
+;=============
+;Changes
 
+Change1= --
 
+Change2= --
 
-[CoreVersion]
+;=============
+;Function Web
+
+[CHecker]
 Measure=WebParser
-URL=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Variables/AstroVer.inc
+URL=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/VarsWeb/AstroVer.inc
 Debug=2
-Debug2File=#@#Version.inc
+Debug2File=#ROOTCONFIGPATH#Addons\Updater\Updater\Vars\Check.inc
 DynamicVariables=1
 UpdateDivider=1
