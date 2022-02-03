@@ -1,6 +1,6 @@
 [Variables]
 
-NewVersion=0.2
+NewVersion=0.3
 
 UpdateAstroLinkDownload=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Versions/AstroUI_#NewVersion#.rmskin
 
@@ -21,6 +21,6 @@ Change2= New function for the exit button. When you right-click, you activate th
 Measure=WebParser
 URL=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/VarsWeb/AstroVer.inc
 Debug=2
-Debug2File=#ROOTCONFIGPATH#Addons\Updater\Updater\Vars\Check.inc
+Debug2File=#ROOTCONFIGPATH#Addons\Updater\Vars\Check.inc
 DynamicVariables=1
 UpdateDivider= 1
