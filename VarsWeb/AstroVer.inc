@@ -10,9 +10,9 @@ UpdateAvatable=0
 ;=============
 ;Changes
 
-Change1= --
+Change1= New Files to comming Updater
 
-Change2= --
+Change2= New function for the exit button. When you right-click, you activate the drop menu. Here you have some new features. Here you can open, for example, the rainmeter manager.
 
 ;=============
 ;Function Web
