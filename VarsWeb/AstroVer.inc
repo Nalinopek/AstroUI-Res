@@ -23,4 +23,4 @@ URL=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/VarsWeb/AstroVe
 Debug=2
 Debug2File=#ROOTCONFIGPATH#Addons\Updater\Vars\Check.inc
 DynamicVariables=1
-UpdateDivider= 1
+UpdateDivider= -1
