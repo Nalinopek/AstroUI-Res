@@ -10,9 +10,9 @@ UpdateAvatable=0
 ;=============
 ;Changes
 
-Change1= New Files to comming Updater
+Change1= New design of UI.
 
-Change2= New drop menu. Here you have some new features. Here you can open, for example, the rainmeter manager.
+Change2= New Astro Menu. Here you have some new features. Here you can open, for example, refresh all skins.
 
 ;=============
 ;Function Web
