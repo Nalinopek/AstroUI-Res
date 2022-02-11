@@ -4,7 +4,7 @@ NewVersion=0.4
 
 UpdateAstroLinkDownload=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Versions/AstroUI_#NewVersion#.rmskin
 
-UpdateAvatable=1
+UpdateAvatable=0
 
 
 ;=============
