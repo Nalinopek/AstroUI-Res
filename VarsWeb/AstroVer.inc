@@ -1,10 +1,9 @@
 [Variables]
 
-NewVersion=0.4
+NewVersion=1.0
+NewVersionCode=10
 
-UpdateAstroLinkDownload=https://raw.githubusercontent.com/Nalinopek/AstroUI-Res/main/Versions/AstroUI_#NewVersion#.rmskin
 
-UpdateAvatable=0
 
 
 ;=============
@@ -13,6 +12,8 @@ UpdateAvatable=0
 Change1= New design of UI.
 
 Change2= New Astro Menu. Here you have some new features. Here you can open, for example, refresh all skins.
+
+
 
 ;=============
 ;Function Web
